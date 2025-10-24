@@ -136,6 +136,7 @@ Add your name and favorite Bay Area sports team below. Each person should add ON
 
 - Kevin Le - Favorite Team: San Franciso Unicorns
 - Joseph Calvagna - Favorite Team:Las Vegas Raiders
+- Giovanny Quezada - Favorite Team: Golden State Warriors
 
 ---
 
